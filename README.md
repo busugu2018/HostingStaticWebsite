@@ -1,6 +1,8 @@
 # HostingStaticWebsite
 Hosting a static website with S3 and route 53.
 
+![Alt text](awsWebsiteHosting.png)
+
 # Overview
 
 This project documents the end-to-end deployment of my personal portfolio website (busugu.click) using a cloud-native architecture on AWS. The implementation demonstrates how to design and deploy a secure, scalable, and high-performance static website using core AWS services.
